@@ -1,0 +1,11 @@
+body{
+    background-color: #7735FA;
+}
+
+.navbar{
+    background-color: grey;
+    color: white;
+}
+.navbar-nav{
+    margin-left: 70%;
+}
